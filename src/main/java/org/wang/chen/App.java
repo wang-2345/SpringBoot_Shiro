@@ -1,4 +1,4 @@
-package org.wang-2345.chen;
+package org.wang.chen;
 
 /**
  * Hello world!

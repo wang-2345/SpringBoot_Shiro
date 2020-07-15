@@ -4,14 +4,14 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>org.wang-2345.chen</groupId>
+  <groupId>org.wang.chen</groupId>
   <artifactId>SpringBoot_Shiro</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
 
   <name>SpringBoot_Shiro</name>
   <description>A demo for deployment to the Central Repository via OSSRH</description>
-  <url>http://github.com/simpligility/ossrh-demo</url>
+  <url>https://github.com/wang-2345/SpringBoot_Shiro</url>
   <licenses>
     <license>
       <name>The Apache Software License, Version 2.0</name>
@@ -20,16 +20,16 @@
   </licenses>
   <developers>
     <developer>
-      <name>Manfred Moser</name>
-      <email>manfred@simpligility.com</email>
-      <organization>simpligility technologies inc.</organization>
-      <organizationUrl>http://www.simpligility.com</organizationUrl>
+      <name>Wang Chen</name>
+      <email>wang-2345@hotmail.com</email>
+      <organization>wang-2345</organization>
+      <organizationUrl>https://github.com/wang-2345</organizationUrl>
     </developer>
   </developers>
   <scm>
-    <connection>scm:git:git://github.com/simpligility/ossrh-demo.git</connection>
-    <developerConnection>scm:git:ssh://github.com:simpligility/ossrh-demo.git</developerConnection>
-    <url>http://github.com/simpligility/ossrh-demo/tree/master</url>
+    <connection>scm:git:git://github.com/wang-2345/SpringBoot_Shiro.git</connection>
+    <developerConnection>scm:git:ssh://github.com/wang-2345/SpringBoot_Shiro.git</developerConnection>
+    <url>http://github.com/wang-2345/SpringBoot_Shiro/tree/master</url>
   </scm>
 
   <distributionManagement>
@@ -48,12 +48,6 @@
   </properties>
 
   <dependencies>
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>3.8.1</version>
-      <scope>test</scope>
-    </dependency>
   </dependencies>
 
 
