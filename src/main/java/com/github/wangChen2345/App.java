@@ -1,4 +1,4 @@
-package org.wangChen2345.chen;
+package com.github.wangChen2345;
 
 /**
  * Hello world!
