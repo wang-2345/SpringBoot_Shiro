@@ -4,14 +4,14 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>org.wang.chen</groupId>
+  <groupId>org.wangChen2345.chen</groupId>
   <artifactId>SpringBoot_Shiro</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
 
   <name>SpringBoot_Shiro</name>
   <description>A demo for deployment to the Central Repository via OSSRH</description>
-  <url>https://github.com/wang-2345/SpringBoot_Shiro</url>
+  <url>https://github.com/wangChen2345/SpringBoot_Shiro</url>
   <licenses>
     <license>
       <name>The Apache Software License, Version 2.0</name>
@@ -22,20 +22,20 @@
     <developer>
       <name>Wang Chen</name>
       <email>wang-2345@hotmail.com</email>
-      <organization>wang-2345</organization>
-      <organizationUrl>https://github.com/wang-2345</organizationUrl>
+      <organization>wangChen2345</organization>
+      <organizationUrl>https://github.com/wangChen2345</organizationUrl>
     </developer>
   </developers>
   <scm>
-    <connection>scm:git:git://github.com/wang-2345/SpringBoot_Shiro.git</connection>
-    <developerConnection>scm:git:ssh://github.com/wang-2345/SpringBoot_Shiro.git</developerConnection>
-    <url>http://github.com/wang-2345/SpringBoot_Shiro/tree/master</url>
+    <connection>scm:git:git://github.com/wangChen2345/SpringBoot_Shiro.git</connection>
+    <developerConnection>scm:git:ssh://github.com/wangChen2345/SpringBoot_Shiro.git</developerConnection>
+    <url>http://github.com/wangChen2345/SpringBoot_Shiro/tree/master</url>
   </scm>
 
   <distributionManagement>
     <snapshotRepository>
       <id>ossrh</id>
-      <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+      <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
     </snapshotRepository>
     <repository>
       <id>ossrh</id>
